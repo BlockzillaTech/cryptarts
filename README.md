@@ -14,7 +14,7 @@ In your browser
 http://localhost:3000
 
 
-# Currently the code is really simple and the trading pairs are fixed, feel free to make a PR
+Currently the code is really simple and the trading pairs are fixed, feel free to make a PR
 
 
 

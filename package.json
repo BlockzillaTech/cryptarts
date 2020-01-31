@@ -1,7 +1,7 @@
 {
-  "name": "cryptocharts",
-  "version": "0.0.0",
-  "private": true,
+  "name": "cryptarts",
+  "version": "0.0.1",
+  "private": false,
   "scripts": {
     "start": "node ./bin/www"
   },
